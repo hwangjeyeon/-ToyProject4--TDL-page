@@ -1,0 +1,5 @@
+.container_background{
+    background-size : cover;
+    opacity: 0.5;
+    filter:blur(5px);
+}
